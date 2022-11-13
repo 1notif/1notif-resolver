@@ -1,0 +1,1 @@
+export const oneNotifFunction = 'tTFGILOi4rhI8TlT1qt4tE04e2HXAivPIdqqRzGVoDE';
